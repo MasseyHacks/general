@@ -17,6 +17,6 @@
 + Particle Photons have been purchased and will be shipped to Jelena's house
 + Judges 
     + Possible Judges
-      + Yvonne Pillon from WETech
+      + Yvonne Pilon from WETech
       + Representative from BraveCS
     + Confirmed Judges
