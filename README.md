@@ -14,6 +14,7 @@
     + Activities outlines need to be done by February 19th
     + MC content (remind me to give you the guideline after CCC) (they are due a few days before the 27th)
     + Let me know who your MC buddy is, or if you're going solo
+    + Try to get the PA for MasseyHacks
 + @surajrampure
     + Please have the judging guides done by February 19th
   
@@ -23,8 +24,9 @@
 + Judges 
     + Possible Judges
       + Yvonne Pilon from WETech
-      + Representative from BraveCS
+      
     + Confirmed Judges
+      + Dave from BraveCS
 + Official Photographer is Hilmir Media but I also asked Kim and Rachel to take pictures whenever they feel like it
 + Slack because we'll be in different rooms and this is more convenient for little announcements and mentors. Slack is love, Slack is life.
     + https://masseyhacks.slack.com/messages
