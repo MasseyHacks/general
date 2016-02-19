@@ -3,6 +3,8 @@
 ###Task(s) to be Claimed
 + Sick playlist for opening/closing ceremonies & maybe throughout the day (not the most urgent task)
     + the provincial playlist wasn't too bad 
++ Purchase food and drinks and small prizes
++ Talk to teachers (Tristhal)
 
 ###Tasks Assigned
 + @descrip @michaelfonzo 
